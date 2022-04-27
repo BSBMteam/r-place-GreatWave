@@ -1,0 +1,1 @@
+To add an overlay, open your image editor of choice. Open our final canvas, then create a new layer. Paste the overlay you want on top. It should be automatically aligned, but check the corners of the canvas to be sure.
