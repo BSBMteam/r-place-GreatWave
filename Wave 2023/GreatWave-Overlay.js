@@ -6,8 +6,8 @@
 // @author       placeDE Devs
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/BSBMteam/r-place-GreatWave/main/Wave%202023/GreatWave-Overlay.js
-// @downloadURL  https://github.com/BSBMteam/r-place-GreatWave/main/Wave%202023/GreatWave-Overlay.js
+// @updateURL    https://github.com/BSBMteam/r-place-GreatWave/raw/main/Wave%202023/GreatWave-Overlay.js
+// @downloadURL  https://github.com/BSBMteam/r-place-GreatWave/raw/main/Wave%202023/GreatWave-Overlay.js
 // ==/UserScript==
 
 var overlayImage = null;
