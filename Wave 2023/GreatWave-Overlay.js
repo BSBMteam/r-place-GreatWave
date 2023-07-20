@@ -2,7 +2,7 @@
 // @name         r/placeTheWave (Based off the code from r/placeDE Template)
 // @namespace    http://tampermonkey.net/
 // @version      5
-// @description  try to take over the canvas! https://github.com/PlaceDE-Official/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
+// @description  try to take over the canvas! Code based off https://github.com/PlaceDE-Official/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
 // @author       placeDE Devs
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
