@@ -16,7 +16,7 @@ if (window.top !== window.self) {
         const canvasContainer = document.getElementsByTagName("garlic-bread-embed")[0].shadowRoot.children[0].getElementsByTagName("garlic-bread-canvas")[0].shadowRoot.children[0];
         overlayImage = document.createElement("img");
         updateImage();
-        overlayImage.style = `position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;`;
+        overlayImage.style = `position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1500px;height: 1000px;`;
         canvasContainer.appendChild(overlayImage);
     }, false);
 }
@@ -25,4 +25,4 @@ function updateImage() {
     overlayImage.src = "https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png?" + Date.now()
 }
 
-setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png?" + Date.now()}, 45000);
+setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png?" + Date.now()}, 30000);
