@@ -17,3 +17,15 @@ Step 5: Reload reddit, overlay should be visible, if not, reload again
 For your own reference or custom overlay script:
 
 Image URL: https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png
+
+
+
+
+
+
+Overlay code (Tampermonkey): https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/GreatWave-Overlay.js
+
+----------------
+
+For your own reference or custom overlay script:
+Image URL: https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png
