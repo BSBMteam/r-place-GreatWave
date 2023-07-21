@@ -25,4 +25,4 @@ function updateImage() {
     overlayImage.src = "https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png?" + Date.now()
 }
 
-setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png?" + Date.now()}, 30000);
+setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png?" + Date.now()}, 45000);
