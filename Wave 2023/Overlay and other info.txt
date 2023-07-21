@@ -1,0 +1,19 @@
+Discord server: https://discord.gg/cNXhs837
+Reddit page: https://www.reddit.com/r/place_the_wave/
+
+Template!!!
+Step 1: Download Tampermonkey https://www.tampermonkey.net/
+
+Step 2: Open up the extension and click create new script
+
+Step 3: Replace the code seen there with the new code at https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/GreatWave-Overlay.js
+
+Step 4: go to File>Save
+
+Step 5: Reload reddit, overlay should be visible, if not, reload again
+
+----------------
+
+For your own reference or custom overlay script:
+
+Image URL: https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/template2023.png
