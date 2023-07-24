@@ -22,9 +22,10 @@ Image URL: https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wav
 la Vague d'Hokusai à la Baguette
 
 
+Triturtle added the box representing the Kanji that was written on the artwork & the France/wave heart
 
 
-
+The Great Wave of Kanagawa has two inscriptions. The title of the series is written in the upper-left corner within a rectangular frame, which reads: "冨嶽三十六景/神奈川沖/浪裡" Fugaku Sanjūrokkei / Kanagawa oki / nami ura, meaning "Thirty-six views of Mount Fuji / On the high seas in Kanagawa / Under the wave". The inscription to the left of the box bears the artist's signature: 北斎改為一筆 Hokusai aratame Iitsu hitsu which reads as "(painting) from the brush of Hokusai, who changed his name to Iitsu".
 
 Overlay code (Tampermonkey): https://raw.githubusercontent.com/BSBMteam/r-place-GreatWave/main/Wave%202023/GreatWave-Overlay.js
 
